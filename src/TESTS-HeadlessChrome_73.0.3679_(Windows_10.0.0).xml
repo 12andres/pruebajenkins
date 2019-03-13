@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 73.0.3679 (Windows 10.0.0)" package="" timestamp="2019-02-26T12:52:21" id="0" hostname="c-flasso" tests="3" errors="0" failures="0" time="0.006">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/73.0.3679.0 Safari/537.36"/>
+  </properties>
+  <testcase name="Test for calculator Test for multiplicacion debe retornar nueve" time="0.004" classname="HeadlessChrome_73_0_3679_(Windows_10_0_0).Test for calculator"/>
+  <testcase name="Test for calculator Test for resta debe retornar tres" time="0.001" classname="HeadlessChrome_73_0_3679_(Windows_10_0_0).Test for calculator"/>
+  <testcase name="Test for calculator Test for marchrs test of machers" time="0.001" classname="HeadlessChrome_73_0_3679_(Windows_10_0_0).Test for calculator"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
